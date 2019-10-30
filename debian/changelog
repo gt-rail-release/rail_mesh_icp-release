@@ -1,0 +1,34 @@
+ros-melodic-rail-mesh-icp (0.0.4-1bionic) bionic; urgency=high
+
+  * Merge pull request #1 <https://github.com/GT-RAIL/rail_mesh_icp/issues/1> from clalancette/fix-race
+  * Make the template_matcher_node depend on generated messages to avoid
+    race condition on slow platforms.
+    Signed-off-by: Chris Lalancette <mailto:clalancette@openrobotics.org>
+  * Contributors: Angel Andres Daruna, Chris Lalancette
+
+ -- Angel Daruna <adaruna3@gatech.edu>  Wed, 30 Oct 2019 04:00:00 -0000
+
+ros-melodic-rail-mesh-icp (0.0.3-1bionic) bionic; urgency=high
+
+  * fixes to various files for continuous-integration
+  * fixes to message dependencies
+  * Contributors: Angel
+
+ -- Angel Daruna <adaruna3@gatech.edu>  Thu, 22 Aug 2019 04:00:00 -0000
+
+ros-melodic-rail-mesh-icp (0.0.2-1bionic) bionic; urgency=high
+
+  * updates to fix release build problems
+  * Contributors: Angel
+
+ -- Angel Daruna <adaruna3@gatech.edu>  Thu, 22 Aug 2019 04:00:00 -0000
+
+ros-melodic-rail-mesh-icp (0.0.1-1bionic) bionic; urgency=high
+
+  * clean up for ROS release
+  * Initial commit
+  * Contributors: Angel, Angel Andres Daruna
+
+ -- Angel Daruna <adaruna3@gatech.edu>  Tue, 13 Aug 2019 04:00:00 -0000
+
+
